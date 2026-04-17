@@ -14,3 +14,7 @@ __chocolate__
 
 - [ ] coladinho
 - [X] coladinho
+
+Title 1 | Title 2 | Title 3 | title 4
+:---:  | ---: | :--- | :---:
+1 | 22 | 333 | 4444
