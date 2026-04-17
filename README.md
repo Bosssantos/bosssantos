@@ -11,3 +11,6 @@ __chocolate__
 ### HTML 5: [clique aqui](https://www.youtube.com/watch?v=Fhy-5CtVkiM)
 
 ### CSS: [clique aqui](https://www.youtube.com/watch?v=AB35iSr1YyA)
+
+-[] coladinho
+-[X] coladinho
