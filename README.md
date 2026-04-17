@@ -14,4 +14,3 @@ __chocolate__
 
 - [ ] coladinho
 - [X] coladinho
-- [V] mihi
