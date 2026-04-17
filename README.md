@@ -12,5 +12,5 @@ __chocolate__
 
 ### CSS: [clique aqui](https://www.youtube.com/watch?v=AB35iSr1YyA)
 
--[] coladinho
--[X] coladinho
+- [] coladinho
+- [X] coladinho
